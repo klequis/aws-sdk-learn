@@ -1,0 +1,17 @@
+{
+  "name": "awsnodesample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.256.1",
+    "shortid": "^2.2.8",
+    "uuid": "^3.2.1"
+  }
+}
