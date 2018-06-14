@@ -9,6 +9,7 @@
   "author": "Fady Makram",
   "license": "MIT",
   "dependencies": {
+    "aws-sdk": "^2.256.1",
     "express": "^4.13.3",
     "formidable": "^1.0.17"
   }
